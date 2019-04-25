@@ -1,0 +1,74 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="final_history_2019.com" resolutions="1x" timestamp="1556220715161">
+  <folder name="assets">
+    <file name="banzsl.jpg" crc="4196915766" seo="true" mt="1556139483000"/>
+  </folder>
+  <folder name="images">
+    <file name="usta.png" crc="170206230" seo="true" ref="index:start:speech">
+      <caption webpage="index" alt=""/>
+      <caption webpage="start" alt=""/>
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="ucho.png" crc="419321577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nos.png" crc="3764840756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oko.png" crc="106629208" seo="true" ref="index:gestures">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gestures" alt=""/>
+    </file>
+    <file name="ucho398x595.png" crc="4289371628" seo="true" ref="start">
+      <caption webpage="start" alt=""/>
+    </file>
+    <file name="41b46e7e8e1c8dd17fbe8342544f2f7d.png" crc="4221217256" seo="true" ref="start:gestures">
+      <caption webpage="start" alt=""/>
+      <caption webpage="gestures" alt=""/>
+    </file>
+    <file name="screenshot 2019-04-24 at 195246.jpg" crc="3942114555" seo="true" ref="gestures">
+      <caption webpage="gestures" alt=""/>
+    </file>
+    <file name="screenshot 2019-04-25 at 133607.jpg" crc="4051009419" seo="true" ref="gestures">
+      <caption webpage="gestures" alt=""/>
+    </file>
+    <file name="bbbbla.png" crc="4092139901" seo="true" ref="gestures">
+      <caption webpage="gestures" alt=""/>
+    </file>
+    <file name="hand-holding-flower-5b0cd791eed4755204294815275682739783.png" crc="347938390" seo="true" ref="gestures">
+      <caption webpage="gestures" alt=""/>
+    </file>
+    <file name="screenshot 2019-04-25 at 113119.jpg" crc="4169318042" seo="true" ref="speech">
+      <caption webpage="speech" alt=""/>
+    </file>
+    <file name="human_language_families_map.png" crc="35629583" seo="true" ref="divergence">
+      <caption webpage="divergence" alt=""/>
+    </file>
+    <file name="sign_language_families.svg" crc="3837361430" seo="true" ref="divergence">
+      <caption webpage="divergence" alt=""/>
+    </file>
+    <file name="sign_language_families_poster_.png" crc="4130511158" ref="divergence"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="135508225" ref="index"/>
+    <file name="untitled-6.css" crc="147158825" ref="untitled-6"/>
+    <file name="gestures.css" crc="3991005476" ref="gestures"/>
+    <file name="speech.css" crc="3802406998" ref="speech"/>
+    <file name="divergence.css" crc="138120226" ref="divergence"/>
+    <file name="start.css" crc="4205404381" ref="start"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:start:gestures:speech:divergence:untitled-6"/>
+    <file name="museutils.js" crc="340535759" ref="index:start:gestures:speech:divergence:untitled-6"/>
+    <file name="whatinput.js" crc="86476730" ref="index:start:gestures:speech:divergence:untitled-6"/>
+    <file name="museconfig.js" crc="310584261" ref="index:start:gestures:speech:divergence:untitled-6"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:start:gestures:speech:divergence:untitled-6"/>
+  </folder>
+  <file name="index.html" crc="221182875" seo="true" mt="1556156539903" redirect="true"/>
+  <file name="start.html" crc="4244822315" seo="true" mt="1556157701540" redirect="true"/>
+  <file name="gestures.html" crc="3788500338" seo="true" mt="1556210512419" redirect="true"/>
+  <file name="speech.html" crc="103461609" seo="true" mt="1556204535757" redirect="true"/>
+  <file name="divergence.html" crc="4164203931" seo="true" mt="1556220678983" redirect="true"/>
+  <file name="untitled-6.html" crc="364601327" seo="true" mt="1556157604902" redirect="true"/>
+</manifest>
